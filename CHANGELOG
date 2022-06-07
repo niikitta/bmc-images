@@ -1,0 +1,36 @@
+98f0dc03b (HEAD -> master, origin/master, origin/HEAD) meta-zvezda: add fans control demon
+8aec8597a meta-zvezda: show in webui board information
+cc6a6044e meta-zvezda: add static IP for first configuration
+902b6c349 meta-zvezda: add default account
+bd25c4cee meta-zvezda: remove power off function
+1f8df9adf meta-zvezda: remove power reset for testing
+97d919746 meta-zvezda: srcrev bump to new dev version
+316100991 meta-zvezda: pass-through modifications for GPIOD
+f28d76e2b meta-zvezda: show board info in webui
+9dc475d4b meta-zvezda: add patch to previous commit
+2da623ee0 meta-zvezda: locale settings for webui
+99787f6fa meta-zvezda: vendor specific settings
+20d1426a6 meta-zvezda: add inventory support
+9dcbdbd40 meta-zvezda: show cpu and dimm temperature values
+431004820 meta-zvezda: transfer pwr-ctrl to dev status
+287fcfa87 meta-zvezda: Add peci support
+9bcbad764 meta-zvezda: logs through redfish enabled
+0d776e04b meta-zvezda: Add support for uidled
+4ea0af44f meta-zvezda: fix build bug: remake webui patches
+f31122d74 meta-zvezda: Сustomization webui-vue for vendor
+55d878d65 meta-zvezda: Add support for pwr-ctrl demon
+2428b9454 meta-zvezda: meta-iridium64: Add support for UID led
+a2ca6ec76 meta-zvezda: meta-iridium64: Remove static IP address
+7a982db54 meta-zvezda: meta-iridium64: Add support webui-vue (remove angular webui)
+b4e616a91 meta-zvezda: meta-iridium: Add UID_LED id in GPIO configuration
+921a6b075 meta-zvezda: meta-iridium64: Add support for hwmon module
+650debb53 meta-zvezda: meta-iridium: remove plug from network configuration
+7bf824010 meta-zvezda: meta-iridium: add default login and password
+2820021fe meta-zvezda: meta-iridium64: Add GPIO line for switch mux to BMC from host
+de8511f5a meta-zvezda: iridium64: add default login and password
+9870f27fb meta-zvezda: iridium64: PECI driver support
+d0bef0cde meta-zvezda: iridium64: hwmon configuration changes 1. Remove fan 2. Make changes in sensors configuration
+ef6f273bb meta-zvezda: iridium64: add gpio lines into device tree to support Intel power control
+e7fe00834 meta-zvezda: meta-iridium: Rename machines
+c064861e7 meta-zvezda: meta-iridium-flash-32-test: Configure 32Mib flash size
+260324018 add layer for server Zvezda Iridium
