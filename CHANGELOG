@@ -1,3 +1,17 @@
+Wed 06 Jul 2022 12:55:58 PM +03
+==============================
+0d27aec176b870c1e511960b8133f6ffbfcdfbcb (HEAD -> master, origin/master, origin/HEAD) fix build bug: move service file to package
+c43a80325677060cf3252e562705e04e86bed9ce meta-zvezda: timer for set boardinfo
+3dcaab0e3f31f5dc24d593ab090129fcf82e4679 fix bug: change version after starting app
+49394aeaa38d90e3dd7689ac2c3fe8e5ade557b6 meta-zvezda: add boardinfo changer utility
+8679d692beb53a5a570a27493e02e5ea865ba042 meta-zvezda: include set-version to package
+56256c502fb8d81062c8ea56b8da2aed04633384 meta-zvezda: version setter
+8aa65fcf9509e76243b3ae2758bc16ba551395e7 meta-zvezda: gpio setter for more fast board run
+83955e276c5146871bbb7e3d58f62835972cbb89 meta-zvezda: change default password
+245de58c902f0eb61b25361a26d6a372419541d5 meta-zvezda: make inventory dbus property rw
+00e1253507e3fd607fb00d4e5c408c93b643c4c3 meta-zvezda: configure eth1 interface
+7465b26c7e4519dda5e84662bd61639c44b66002 fix build bug: add escape character in recipe
+
 Date: Thu 09 Jun 2022 01:45:14 PM +03
 ====================================
 6769b1cc9 (HEAD -> master, origin/master, origin/HEAD) meta-zvezda: srcrev bump: pwr-ctrl refactor
