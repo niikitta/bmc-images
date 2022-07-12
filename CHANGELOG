@@ -1,3 +1,17 @@
+Tue 12 Jul 2022 06:01:49 PM +03
+==============================
+5e1eb17f9324f33a663c94a78c7c94cb58bb3fd2 (HEAD -> master, origin/master, origin/HEAD) fix bug: set escape characters
+0d71a0e7ece07153b5866120c8b942588b1e050b snmp: add SNMP control utility
+b9722f385942433bc9e35660952e4e6e0685da81 fix build bug: add dependencies
+4f8680b5bd4677bdaf518e374a35ec9e1567aea9 dts: lpc requires flash memory define
+f106c4c03ba623920af9ef421f257e5e5f867782 dbus: add intel dbus interfaces
+1b538c68a0ea42e8a9869205098dc5d1a866a019 add logger features
+5b3da8f3bd7a5852374ad0a429fccab269e1d8b7 ipmi: ipmi configurations
+00bf1a2c4881d2257792f4fc61159f39bdf66315 ipmi: ipmid configurations
+637137acbc22e83deae21a40edbb8b85bb2fb6b7 driver changes: add lpc support
+0839afa8a5733b1de1445b53e85a60db738d2e40 ipmi: add ipmitool and describe ipmb in dts
+1610bfcc8e07a2d39d4d4fadd5a5d2c7085f7ec3 boardinfo changes: make timer smaller
+
 Wed 06 Jul 2022 12:55:58 PM +03
 ==============================
 0d27aec176b870c1e511960b8133f6ffbfcdfbcb (HEAD -> master, origin/master, origin/HEAD) fix build bug: move service file to package
