@@ -1,3 +1,13 @@
+Thu 21 Jul 2022 04:59:18 PM +03
+=============================
+b617c5859f64de89743413a27f01cee3a6280352 (HEAD -> master, origin/master, origin/HEAD, dev0) remove default apps and update pwr-ctrl
+94cb61f620c04c52f74ac88c11dc0c018e460967 buttons control: supports on/off server and uidled
+68a317dadc157b0db2f2f2b207d8a176c98c11df network config: remove route
+98d4e78cca6fceae9e9799fcc82b6a7ef512223f networkd configuration: remove gateway
+7276ae085798174aa74a5aaede651ba90465c5e8 extra configs: reconfigure utilities service files
+6f235d3ed3e980980b7c69eaebcfdeb1cb3b61c2 hmwon: left only one cpu temperature
+e0f5732fe3dac42a182354537f9ceb575d0ce14f hwmon: add cpu1 sensors and iio configure
+
 Tue 12 Jul 2022 06:01:49 PM +03
 ==============================
 5e1eb17f9324f33a663c94a78c7c94cb58bb3fd2 (HEAD -> master, origin/master, origin/HEAD) fix bug: set escape characters
