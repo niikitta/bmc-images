@@ -1,3 +1,9 @@
+Fri 22 Jul 2022 12:02:13 PM +03
+=============================
+a3bc9a5459db7893201517aa6e1356490c15b1e6 (HEAD -> master, origin/master, origin/HEAD) set-version: update version
+710a71bd6bf90a6b29ec54d51f94a31261e3f2c6 webui: add reboot feature
+109459d3a55153e62d56d31b843ed0ec997d1efe pwr-ctrl: update
+
 Thu 21 Jul 2022 04:59:18 PM +03
 =============================
 b617c5859f64de89743413a27f01cee3a6280352 (HEAD -> master, origin/master, origin/HEAD, dev0) remove default apps and update pwr-ctrl
